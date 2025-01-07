@@ -1,0 +1,6 @@
+projectKey=lime
+serverUrl=http://localhost:9000
+serverVersion=24.12.0.100206
+dashboardUrl=http://localhost:9000/dashboard?id=lime
+ceTaskId=6a0bd11a-640a-4376-bb0a-6df159939b3a
+ceTaskUrl=http://localhost:9000/api/ce/task?id=6a0bd11a-640a-4376-bb0a-6df159939b3a
